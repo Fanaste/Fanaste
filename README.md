@@ -5,7 +5,7 @@
 ### 🎓 Sou estudante de **Sistemas de Informação** (2º período) e estou em busca de um estágio remoto nas áreas de **Desenvolvimento** ou **Cibersegurança**.
 
 ### 🔒 Cofundadora da CiberCom (Comunidade de Cibersegurança de Uberlândia)
-<img src="https://github.com/Fanaste/Fanaste/blob/main/Logo%20da%20CiberCom.jpeg)" alt="Logo da CiberCom" width="200px" heigth="100px" />
+<img src="https://github.com/Fanaste/Fanaste/blob/main/Logo%20da%20CiberCom.jpeg" alt="Logo da CiberCom" width="200px" heigth="100px" />
 
 ## 🛠️ Conhecimentos:
 - **HTML**
