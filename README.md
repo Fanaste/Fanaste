@@ -14,7 +14,7 @@
 
 ## 📄 Currículo (em PDF):
 
-Você pode baixar meu currículo em PDF aqui: [Currículo Stefany Batista Brauns Teixeira.pdf](https://github.com/Fanaste/Fanaste/blob/main/Curr%C3%ADculo%20SI%20Geral%20Stefany%20Batista%20Brauns%20Teixeira.pdf)
+Você pode baixar meu currículo em PDF aqui: [Currículo Stefany Batista Brauns Teixeira.pdf](https://github.com/Fanaste/Fanaste/blob/main/C%C3%B3pia%20de%20Curr%C3%ADculo%20SI%20Geral%20Stefany%20Batista%20Brauns%20Teixeira%20(1).pdf)
 
 
 ## 🌟 Fatos curiosos:
