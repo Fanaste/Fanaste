@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, boas-vindas à minha rede!
 
-<!--
-**Fanaste/Fanaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Meu nome é **Stefany Batista**, mas uso meu avatar de **Fanaste** nas redes sociais.
 
-Here are some ideas to get you started:
+### 🎓 Sou estudante de **Sistemas de Informação** (2º período) e estou em busca de um estágio remoto nas áreas de **Desenvolvimento** ou **Cibersegurança**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔒 Cofundadora da CiberCom (Comunidade de Cibersegurança de Uberlândia)
+<img src="https://github.com/user-attachments/assets/d381eec8-a7e9-4ffe-9627-ee3f493e18d7" alt="Logo da CiberCom" width="200px" heigth="100px" />
+
+## 🛠️ Conhecimentos:
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+## 📄 Currículo (em PDF):
+
+Você pode baixar meu currículo em PDF aqui: [Currículo Stefany Batista Brauns Teixeira.pdf](https://github.com/Fanaste/Fanaste/blob/main/Curr%C3%ADculo%20SI%20Geral%20Stefany%20Batista%20Brauns%20Teixeira.pdf)
+
+
+## 🌟 Fatos curiosos:
+1. Já fui no **Mind the Sec 2024** e tive a oportunidade de ser voluntária.
+2. Tenho uma comunidade de Cibersegurança criada em **Uberlândia - MG**, que o Brasil inteiro e pessoas do exterior podem participar, chamada [CiberCom](https://linktr.ee/cibercom).
+3. Estou fundando um grupo de estudos com foco em compartilhar conhecimento e preparar para as principais certificações do mercado de TI.
+
+## 🏅 Outras curiosidades:
+1. Já pratiquei muitos esportes durante toda a minha vida, como ciclismo, natação, karatê, corrida, futsal, handball.
+2. Meu desejo é voltar a fazer **karatê**; parei na faixa laranja, mas sonho em atingir a faixa preta.
+3. **Jackie Chan** é meu ídolo desde criança.
+
+---
+
+✨ **Agradeço por visitar meu perfil!** Estou animada para conectar e aprender mais sobre tecnologia e cibersegurança. 
