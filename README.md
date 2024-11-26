@@ -1,8 +1,8 @@
 # 👋 Olá, boas-vindas à minha rede!
 
-### Meu nome é **Stefany Batista**, mas uso meu avatar de **Fanaste** nas redes sociais.
+### Meu nome é **Stefany Batista**, tenho 24 anos e uma sede de viver que nenhuma fonte pode saciar.
 
-### 🎓 Sou estudante de **Sistemas de Informação** (2º período) e estou em busca de um estágio remoto nas áreas de **Desenvolvimento** ou **Cibersegurança**.
+### 🎓 Sou estudante de **Sistemas de Informação** (3º período) e estou em busca de um estágio remoto nas áreas de **Desenvolvimento** ou **Cibersegurança**.
 
 ### 🔒 Cofundadora da CiberCom (Comunidade de Cibersegurança de Uberlândia)
 <img src="https://github.com/Fanaste/Fanaste/blob/main/Logo%20da%20CiberCom.jpeg" alt="Logo da CiberCom" width="200px" heigth="100px" />
@@ -11,6 +11,7 @@
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **SQL**
 
 ## 📄 Currículo (em PDF):
 
