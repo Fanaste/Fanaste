@@ -18,8 +18,6 @@ Meu nome é **Stefany Batista**, tenho 25 anos e uma sede de viver que nenhuma f
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Fanaste&theme=radical)
 
-![Contribuições](https://github-readme-activity-graph.cyclic.app/graph?username=Fanaste&theme=radical&hide_border=true)
-
 
 ## 🔒 Cofundadora da CiberCom (Comunidade de Cibersegurança de Uberlândia)
 <img src="https://github.com/Fanaste/Fanaste/blob/main/Logo%20da%20CiberCom.jpeg" alt="Logo da CiberCom" width="200px" heigth="100px" />
