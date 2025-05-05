@@ -1,6 +1,7 @@
 # 👋 Olá, boas-vindas à minha rede!
 
 Meu nome é **Stefany Batista**, tenho 25 anos e uma sede de viver que nenhuma fonte pode saciar.
+
 🎓 Sou estudante de **Sistemas de Informação** (3º período) e possuo grandes afinidades por **Desenvolvimento**, **Análise de Dados** e **Inteligência Artificial**.
 
 
