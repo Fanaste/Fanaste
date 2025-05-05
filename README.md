@@ -1,18 +1,18 @@
 # 👋 Olá, boas-vindas à minha rede!
 
-## Meu nome é **Stefany Batista**, tenho 25 anos e uma sede de viver que nenhuma fonte pode saciar.
+Meu nome é **Stefany Batista**, tenho 25 anos e uma sede de viver que nenhuma fonte pode saciar.
+🎓 Sou estudante de **Sistemas de Informação** (3º período) e possuo grandes afinidades por **Desenvolvimento**, **Análise de Dados** e **Inteligência Artificial**.
 
-##🎓 Sou estudante de **Sistemas de Informação** (3º período) e possuo grandes afinidades por **Desenvolvimento**, **Análise de Dados** e **Inteligência Artificial**.
-
-## 🔒 Cofundadora da CiberCom (Comunidade de Cibersegurança de Uberlândia)
-<img src="https://github.com/Fanaste/Fanaste/blob/main/Logo%20da%20CiberCom.jpeg" alt="Logo da CiberCom" width="200px" heigth="100px" />
 
 ## 🛠️ Conhecimentos:
 - **HTML**
 - **CSS**
 - **JavaScript**
 - **SQL**
+  
 
+## 🔒 Cofundadora da CiberCom (Comunidade de Cibersegurança de Uberlândia)
+<img src="https://github.com/Fanaste/Fanaste/blob/main/Logo%20da%20CiberCom.jpeg" alt="Logo da CiberCom" width="200px" heigth="100px" />
 
 ## 🌟 Fatos curiosos:
 1. Já cursei Direito durante 7 períodos, mas um dos meus estágios me motivou a mudar para a área da tecnologia
