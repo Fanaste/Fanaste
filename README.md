@@ -22,13 +22,15 @@ Meu nome é **Stefany Batista**, tenho 25 anos e uma sede de viver que nenhuma f
 
 ## 🌟 Fatos curiosos:
 1. Já cursei Direito durante 7 períodos, mas um dos meus estágios me motivou a mudar para a área da tecnologia
-2. Tenho uma comunidade de Cibersegurança criada em **Uberlândia - MG**, que o Brasil inteiro e pessoas do exterior podem participar, chamada [CiberCom](https://linktr.ee/cibercom).
-
-## 🏅 Outras curiosidades:
-1. Já pratiquei muitos esportes durante toda a minha vida, como ciclismo, natação, karatê, corrida, futsal, handball.
-2. Meu desejo é voltar a fazer **karatê**; parei na faixa laranja, mas sonho em atingir a faixa preta.
-3. Atualmente pratico **frisbee**.
+2. Já pratiquei muitos esportes durante toda a minha vida, como ciclismo, natação, karatê, corrida, futsal, handball.
+3. Meu desejo é voltar a fazer **karatê**; parei na faixa laranja, mas sonho em atingir a faixa preta.
+4. Atualmente pratico **frisbee**.
 
 ---
 
-✨ **Agradeço por visitar meu perfil!** Estou animada para conectar e aprender mais sobre as tecnologias presentes por aí. 
+
+
+## 📱 **Contato**  
+Sinta-se à vontade para entrar em contato comigo e trocarmos experiências
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/stefanybrauns)
