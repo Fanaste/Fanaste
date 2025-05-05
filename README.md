@@ -10,6 +10,7 @@ Meu nome é **Stefany Batista**, tenho 25 anos e uma sede de viver que nenhuma f
 - **CSS**
 - **JavaScript**
 - **SQL**
+- **Python**
   
 ## 🚀 Estatísticas do GitHub
 
