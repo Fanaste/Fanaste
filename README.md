@@ -1,10 +1,10 @@
 # 👋 Olá, boas-vindas à minha rede!
 
-### Meu nome é **Stefany Batista**, tenho 25 anos e uma sede de viver que nenhuma fonte pode saciar.
+## Meu nome é **Stefany Batista**, tenho 25 anos e uma sede de viver que nenhuma fonte pode saciar.
 
-### 🎓 Sou estudante de **Sistemas de Informação** (3º período) e estou em busca de um estágio remoto nas áreas de **Desenvolvimento** ou **Análise de Dados**.
+##🎓 Sou estudante de **Sistemas de Informação** (3º período) e possuo grandes afinidades por **Desenvolvimento**, **Análise de Dados** e **Inteligência Artificial**.
 
-### 🔒 Cofundadora da CiberCom (Comunidade de Cibersegurança de Uberlândia)
+## 🔒 Cofundadora da CiberCom (Comunidade de Cibersegurança de Uberlândia)
 <img src="https://github.com/Fanaste/Fanaste/blob/main/Logo%20da%20CiberCom.jpeg" alt="Logo da CiberCom" width="200px" heigth="100px" />
 
 ## 🛠️ Conhecimentos:
@@ -13,15 +13,10 @@
 - **JavaScript**
 - **SQL**
 
-## 📄 Currículo (em PDF):
-
-Você pode baixar meu currículo em PDF aqui: [Currículo Stefany Batista Brauns Teixeira.pdf](https://github.com/Fanaste/Fanaste/blob/main/C%C3%B3pia%20de%20Curr%C3%ADculo%20SI%20Geral%20Stefany%20Batista%20Brauns%20Teixeira%20(1).pdf)
-
 
 ## 🌟 Fatos curiosos:
-1. Já fui no **Mind the Sec 2024** e tive a oportunidade de ser voluntária.
+1. Já cursei Direito durante 7 períodos, mas um dos meus estágios me motivou a mudar para a área da tecnologia
 2. Tenho uma comunidade de Cibersegurança criada em **Uberlândia - MG**, que o Brasil inteiro e pessoas do exterior podem participar, chamada [CiberCom](https://linktr.ee/cibercom).
-3. Já cursei Direito durante 7 períodos, mas um dos meus estágios me motivou a mudar para a área da tecnologia
 
 ## 🏅 Outras curiosidades:
 1. Já pratiquei muitos esportes durante toda a minha vida, como ciclismo, natação, karatê, corrida, futsal, handball.
@@ -30,4 +25,4 @@ Você pode baixar meu currículo em PDF aqui: [Currículo Stefany Batista Brauns
 
 ---
 
-✨ **Agradeço por visitar meu perfil!** Estou animada para conectar e aprender mais sobre tecnologia e analise de dados. 
+✨ **Agradeço por visitar meu perfil!** Estou animada para conectar e aprender mais sobre as tecnologias presentes por aí. 
