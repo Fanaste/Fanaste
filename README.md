@@ -10,6 +10,16 @@ Meu nome é **Stefany Batista**, tenho 25 anos e uma sede de viver que nenhuma f
 - **JavaScript**
 - **SQL**
   
+## 🚀 Estatísticas do GitHub
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanaste&layout=compact&theme=radical)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fanaste&theme=radical&show_icons=true&hide=stars,prs,issues,contribs)
+
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Fanaste&theme=radical)
+
+![Contribuições](https://github-readme-activity-graph.cyclic.app/graph?username=Fanaste&theme=radical&hide_border=true)
+
 
 ## 🔒 Cofundadora da CiberCom (Comunidade de Cibersegurança de Uberlândia)
 <img src="https://github.com/Fanaste/Fanaste/blob/main/Logo%20da%20CiberCom.jpeg" alt="Logo da CiberCom" width="200px" heigth="100px" />
