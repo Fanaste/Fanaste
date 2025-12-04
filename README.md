@@ -14,13 +14,6 @@ Meu nome é **Stefany Batista**, tenho 25 anos e uma sede de viver que nenhuma f
 - **Java**
 - **Bootstrap**
   
-## 🚀 Estatísticas do GitHub
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanaste&layout=compact&theme=radical)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fanaste&theme=radical&show_icons=true&hide=stars,prs,issues,contribs)
-
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Fanaste&theme=radical)
 
 
 ## 🌟 Fatos curiosos:
